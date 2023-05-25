@@ -1,0 +1,20 @@
+export const colors = {
+  background: '#fff',
+  backgroundGrey: '#F7F8FA',
+  backgroundDark: '#e0e0e0',
+  primary: '#222B45',
+  shadow: 'rgba(34, 43, 69, 0.35)',
+  primaryLight: '#4E5873',
+  primaryDark: '#45849e',
+  light: 'white',
+  lightTrans: 'rgba(255,255,255, 0.4)',
+  green: '#b1d78c',
+  darkGreen: '#82be4a',
+  lightGrey: '#E4E9F2',
+  darkGrey: '#666',
+  grey: '#8F9BB3',
+  highlight: '#eee',
+
+  yellow: '#d09f3f',
+  red: '#f93030',
+};
